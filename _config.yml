@@ -156,7 +156,7 @@ timeline-img: "/img/timeline/start.jpeg"
 # Portfolio #
 #############
 
-hasPortfolio: 0
+hasPortfolio: 1
 portfolioNotFound: "## Comming Soon"
 
 ###########
